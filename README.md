@@ -1,7 +1,7 @@
 # WELFake News Classification
 
 
-<img align="center" width=1700 src="https://user-images.githubusercontent.com/105945382/223334423-66f46745-3710-4e9d-9204-f612eff55f28.jpg" />
+<img align="center" width=1700 src="[https://user-images.githubusercontent.com/105945382/223334423-66f46745-3710-4e9d-9204-f612eff55f28.jpg](https://github.com/Ceasor06/WELFake-News-Classification/assets/105945382/9b0f82ea-fd2c-4ab3-94b5-923d52078c94)" />
 
 ## This work presents the solution to one of the kaggle competition that I took part in which is WELFake news classification using Machine Learning methods, more precisely Support Vector Machine (SVM) and Naïve Bayes.
 
