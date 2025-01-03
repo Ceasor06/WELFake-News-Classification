@@ -58,7 +58,7 @@ The dataset used in this project is the [WELFake Dataset](https://www.kaggle.com
 
 For example in this dataset language distribution:
 
-![Dataset Preview](/Language_distribution.png)
+<img src="/Language_distribution.png" alt="Dataset Preview" width="500"/>
 
 ### 2. **Data Preprocessing**
 - Removed null values, URLs, special characters, and stopwords.
