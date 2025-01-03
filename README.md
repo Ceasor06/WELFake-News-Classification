@@ -45,6 +45,7 @@ The dataset used in this project is the [WELFake Dataset](https://www.kaggle.com
   - Columns: Serial Number, Title, Text Body, Label (0: Fake, 1: Real).
 
 ### Dataset Preview
+![Dataset Preview](/Dataset_header.png)
 
 
 ---
