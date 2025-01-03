@@ -65,7 +65,7 @@ For example in this dataset language distribution:
 - Tokenized, lemmatized, and handled negations.
 - Applied TF-IDF for feature engineering.
 
-  Preprocessed Dataset:
+Preprocessed Dataset:
 
 ![Dataset Preview](/Preprocessed.png)
 
