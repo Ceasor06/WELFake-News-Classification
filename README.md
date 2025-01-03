@@ -56,6 +56,10 @@ The dataset used in this project is the [WELFake Dataset](https://www.kaggle.com
 - Analyzed text length, sentiment distribution, word frequency, and n-grams.
 - Visualized data using histograms, word clouds, and sentiment polarity graphs.
 
+For example in this dataset language distribution:
+
+![Dataset Preview](/Language_distribution.png)
+
 ### 2. **Data Preprocessing**
 - Removed null values, URLs, special characters, and stopwords.
 - Tokenized, lemmatized, and handled negations.
