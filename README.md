@@ -63,7 +63,7 @@ The dataset used in this project is the [WELFake Dataset](https://www.kaggle.com
 
   Preprocessed Dataset:
 
-![Dataset Preview](/preprocessed_header.png)
+![Dataset Preview](/preprocessed.png)
 
 
 ### 3. **Modeling**
