@@ -61,6 +61,11 @@ The dataset used in this project is the [WELFake Dataset](https://www.kaggle.com
 - Tokenized, lemmatized, and handled negations.
 - Applied TF-IDF for feature engineering.
 
+  Preprocessed Dataset:
+
+![Dataset Preview](/preprocessed_header.png)
+
+
 ### 3. **Modeling**
 - **Machine Learning Models**: Logistic Regression, SVM, Random Forest, XGBoost.
 - **Deep Learning Models**: LSTM, BERT.
